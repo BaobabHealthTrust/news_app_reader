@@ -1,0 +1,9 @@
+# ====================================================
+#
+#   author: Jacob Mziya (jacob.mziya@baobabhealth.org)
+#   RubyMine 2016.2.2
+#   Lenovo Ideapad Flex 4 (360)
+#
+# ====================================================
+development:
+      news.app.url: http://localhost:8000
