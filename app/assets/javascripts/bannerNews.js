@@ -107,7 +107,7 @@ function bhtNewsExpandViewer(category) {
         btnLogin.onmousedown = function () {
 
             //bhtNewsClicked = true;
-	        parent.window.location = 'http://localhost:3003/portal';
+	        parent.window.location = 'http://localhost:3000/portal';
             //bhtNewsShrinkViewer();
 
         }
@@ -280,7 +280,7 @@ function bhtNewsCreateBanner() {
     btnLogin.onmousedown = function () {
 
         //bhtNewsClicked = true;
-	    parent.window.location = 'http://localhost:3003/portal';
+	    parent.window.location = 'http://localhost:3000/portal';
         //bhtNewsShrinkViewer();
 
     }
