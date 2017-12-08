@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 	
+  resources :news
 	root 'main#index'
 	
 	# ============= News PlugIn routes =======================
